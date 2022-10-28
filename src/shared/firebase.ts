@@ -17,7 +17,7 @@ const firebaseConfig = {
   projectId: "movie-96348",
   storageBucket: "movie-96348.appspot.com",
   messagingSenderId: "768803884152",
-  appId: "1:768803884152:web:a28f9869bcae458a45b18d"
+  appId: "1:768803884152:web:7a9b739fc27da24d45b18d"
 };
 
 // const firebaseConfig = {
