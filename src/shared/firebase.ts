@@ -18,6 +18,7 @@ const firebaseConfig = {
   storageBucket: "movie-96348.appspot.com",
   messagingSenderId: "768803884152",
   appId: "1:768803884152:web:a28f9869bcae458a45b18d",
+  measurementId: "G-RKB9B4YR0X"
 };
 
 // const firebaseConfig = {
