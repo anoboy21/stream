@@ -1,6 +1,10 @@
 {
-  "headers": [
-    {
+    "routes": [
+        {
+            "src": "/arc-sw.js",
+            "dest": "https://arc.io/arc-sw.js"
+        },
+      {
       "source": "/service-worker.js",
       "headers" : [
         {
@@ -49,14 +53,6 @@
           "value": "true"
         }
       ]
-    },
-	{
-    "routes": [
-        {
-            "src": "/arc-sw.js",
-            "dest": "https://arc.io/arc-sw.js"
-        }
-    ]
-	}
+    }
   ]
 }
