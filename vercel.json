@@ -4,17 +4,6 @@
             "src": "/arc-sw.js",
             "dest": "https://arc.io/arc-sw.js"
         }
-    ],
-    "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "x-robots-tag",
-          "value": "index, follow"
-        }
-      ]
-    }
-  ]
+    ]
 }
 
